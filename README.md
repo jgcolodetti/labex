@@ -1,9 +1,10 @@
 # Projeto LabeX
 
-### Aluno
+### Autor
 João Gabriel Colodetti do Carmo
-### Turma
-Alves
+
+### Link
+https://grubby-insurance.surge.sh/
 
 ### Sobre
 
@@ -15,6 +16,7 @@ Consiste em um site de uma agência de viagens espaciais, onde o usuário pode v
 - Axios
 - ChakraUi
 - Hooks
+- Desktop/Mobile
 
 ### Imagens
 
